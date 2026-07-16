@@ -4,13 +4,28 @@ public:
         
         vector<int> arr;
 
-        for(int i=0;i<nums1.size();i++){
+        int i=0;
+        int j=0;
+        while(i<nums1.size() && j<nums2.size()){
+            if (nums1[i]<nums2[j]){
+                arr.push_back(nums1[i]);
+                i++;
+            }
+            else {
+                arr.push_back(nums2[j]);
+                j++;
+            }
+        }
+        while(i < nums1.size()){
             arr.push_back(nums1[i]);
+            i++;
         }
-        for(int j=0;j<nums2.size();j++){
+
+        while(j < nums2.size()){
             arr.push_back(nums2[j]);
+            j++;
         }
-        sort(arr.begin(),arr.end());
+
         int mid=INT_MIN;
         float median=0;
         if (arr.size() %2==0 ){
