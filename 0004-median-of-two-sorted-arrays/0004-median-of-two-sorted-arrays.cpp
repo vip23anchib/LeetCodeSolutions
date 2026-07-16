@@ -1,44 +1,63 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        
-        vector<int> arr;
 
-        int i=0;
-        int j=0;
-        while(i<nums1.size() && j<nums2.size()){
-            if (nums1[i]<nums2[j]){
-                arr.push_back(nums1[i]);
+        int m=nums1.size();
+        int n=nums2.size();
+
+        int total=m+n;
+
+        int mid1=(total-1)/2;
+        int mid2=total/2;
+
+        int i=0,j=0;
+
+        int count=-1;
+
+        int first=0;
+        int second=0;
+
+        while(i<m && j<n)
+        {
+            int curr;
+
+            if(nums1[i]<=nums2[j])
+            {
+                curr=nums1[i];
                 i++;
             }
-            else {
-                arr.push_back(nums2[j]);
+            else
+            {
+                curr=nums2[j];
                 j++;
             }
+
+            count++;
+
+            if(count==mid1) first=curr;
+            if(count==mid2) second=curr;
         }
-        while(i < nums1.size()){
-            arr.push_back(nums1[i]);
+
+        while(i<m)
+        {
+            count++;
+
+            if(count==mid1) first=nums1[i];
+            if(count==mid2) second=nums1[i];
+
             i++;
         }
 
-        while(j < nums2.size()){
-            arr.push_back(nums2[j]);
+        while(j<n)
+        {
+            count++;
+
+            if(count==mid1) first=nums2[j];
+            if(count==mid2) second=nums2[j];
+
             j++;
         }
 
-        int mid=INT_MIN;
-        float median=0;
-        if (arr.size() %2==0 ){
-            mid= arr.size() /2;
-            median=(arr[mid-1]+arr[mid])/2.0;
-            return median;
-        }
-        else{
-            mid=arr.size()/2;
-            median=arr[mid];
-            return median;
-        }
-    return -1;
-        
+        return (first+second)/2.0;
     }
 };
