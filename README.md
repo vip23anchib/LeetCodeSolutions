@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0392-is-subsequence) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
