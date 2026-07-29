@@ -6,34 +6,32 @@ public:
         int n = s.size();
         int i = 0;
 
-        while(i < n){
-
-            while(i < n && s[i] == ' ')
-                i++;
-
-            string word = "";
-
-            while(i < n && s[i] != ' '){
-                word += s[i];
+        while(i<n){
+            while(i<n && s[i]==' '){
                 i++;
             }
+            string word="";
 
-            if(!word.empty())
+            while(i<n && s[i]!=' '){
+                word+=s[i];
+                i++;
+            }
+            if (!word.empty()){
                 words.push_back(word);
+            }
+
         }
+        
 
-        reverse(words.begin(), words.end());
+        reverse(words.begin(),words.end());
+        string ans="";
+        for(i=0;i<words.size();i++){
+            ans+=words[i];
+            if(i!=words.size()-1){
+                ans+=" ";
+            }
 
-        string ans = "";
-
-        for(int i = 0; i < words.size(); i++){
-
-            ans += words[i];
-
-            if(i != words.size()-1)
-                ans += " ";
-        }
-
-        return ans;
-    }
+        }  
+    return ans;      
+   }
 };
