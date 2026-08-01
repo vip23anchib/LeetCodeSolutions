@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
