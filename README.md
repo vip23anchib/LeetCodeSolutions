@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1518-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [3099-harshad-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3099-harshad-number) |
+| [3100-water-bottles-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3100-water-bottles-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1518-water-bottles) |
+| [3100-water-bottles-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3100-water-bottles-ii) |
 ## Number Theory
 |  |
 | ------- |
