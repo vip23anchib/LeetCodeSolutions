@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
