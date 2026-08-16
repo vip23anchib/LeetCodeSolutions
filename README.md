@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0739-daily-temperatures](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -213,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
