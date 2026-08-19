@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
@@ -101,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
