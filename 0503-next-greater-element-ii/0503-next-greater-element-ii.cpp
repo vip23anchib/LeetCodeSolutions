@@ -8,7 +8,7 @@ public:
         for(int i=0;i<n;i++){
             bool found=false;
             for(int j=i+1;j<n;j++){
-                found=false;
+                //found=false;
                 if(nums[j]>nums[i]){
                     ans.push_back(nums[j]);
                     found=true;
