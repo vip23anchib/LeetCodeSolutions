@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2104-sum-of-subarray-ranges](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [3101-count-alternating-subarrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3101-count-alternating-subarrays) |
 ## Binary Search
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 ## String Matching
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
