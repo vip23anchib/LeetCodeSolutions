@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
