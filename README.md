@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0046-permutations) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
