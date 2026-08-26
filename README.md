@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0389-find-the-difference) |
