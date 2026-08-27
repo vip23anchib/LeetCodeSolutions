@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [1518-water-bottles](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1518-water-bottles) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1922-count-good-numbers) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
