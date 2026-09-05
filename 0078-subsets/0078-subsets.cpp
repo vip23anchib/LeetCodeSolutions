@@ -6,6 +6,7 @@ public:
 
     void solve(vector<int>& nums, int index)
     {
+        sort(nums.begin(),nums.end());
         int n=nums.size();
         if(index>=n){
             ans.push_back(curr);
