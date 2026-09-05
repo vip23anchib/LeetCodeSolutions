@@ -1,27 +1,32 @@
 class Solution {
 public:
 
-    long long power(long long x, long long n) {
+    long long MOD = 1000000007;
 
-        if(n == 0)
-            return 1;
+    long long fastPower(long long a, long long b) {
+        long long ans = 1;
 
-        long long half = power(x, n / 2);
+        while (b > 0) {
 
-        if(n % 2 == 0)
-            return (half * half) % 1000000007;
+            if (b % 2 == 1) {
+                ans = (ans * a) % MOD;
+            }
 
-        return (half * half % 1000000007 * x) % 1000000007;
+            a = (a * a) % MOD;
+            b = b / 2;
+        }
+
+        return ans;
     }
 
     int countGoodNumbers(long long n) {
 
-        long long evenPositions = (n + 1) / 2;
-        long long oddPositions = n / 2;
+        long long even = (n + 1) / 2;
+        long long odd = n / 2;
 
-        long long evenWays = power(5, evenPositions);
-        long long oddWays = power(4, oddPositions);
+        long long a = fastPower(5, even);
+        long long b = fastPower(4, odd);
 
-        return (evenWays * oddWays) % 1000000007;
+        return (a * b) % MOD;
     }
 };
