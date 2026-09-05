@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0389-find-the-difference) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0078-subsets) |
 ## Quicksort
 |  |
 | ------- |
