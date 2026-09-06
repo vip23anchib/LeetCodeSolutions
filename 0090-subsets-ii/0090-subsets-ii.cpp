@@ -7,19 +7,18 @@ public:
     void solve(vector<int>& nums, int index)
     {
         
-        int n=nums.size();
-        if(index>=n){
-    
-            ans.push_back(curr);
-            return;
+        ans.push_back(curr);
+
+        for(int i=index;i<nums.size();i++){
+            if(i!=index && nums[i]==nums[i-1]){
+                continue;
+            }
+            curr.push_back(nums[i]);
+
+            solve(nums,i+1);
+
+            curr.pop_back();
         }
-
-        curr.push_back(nums[index]);
-        solve(nums,index+1);
-
-        curr.pop_back();
-
-        solve(nums,index+1);
 
     }
 
@@ -28,15 +27,8 @@ public:
     {
         sort(nums.begin(),nums.end());
         solve(nums, 0);
-        set <vector<int>> st;
-        for(int i=0;i<ans.size();i++){
-            st.insert(ans[i]);
-        }
-        vector<vector<int>> final;
-        for(auto &i:st){
-            final.push_back(i);
-        }
+        
 
-        return final;
+        return ans;
     }
 };
