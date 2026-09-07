@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0771-jewels-and-stones](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0846-hand-of-straights) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -253,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
