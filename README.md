@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1773-count-items-matching-a-rule](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1773-count-items-matching-a-rule](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
