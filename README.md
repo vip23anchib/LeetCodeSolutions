@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [3101-count-alternating-subarrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3101-count-alternating-subarrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1518-water-bottles) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1922-count-good-numbers) |
 | [3099-harshad-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3099-harshad-number) |
