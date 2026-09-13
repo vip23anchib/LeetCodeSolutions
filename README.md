@@ -369,11 +369,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -383,4 +385,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
