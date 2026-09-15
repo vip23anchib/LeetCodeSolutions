@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
