@@ -6,28 +6,35 @@ public:
                vector<vector<int>>& ans,
                vector<int>& ds) {
 
-        if(target == 0) {
-            ans.push_back(ds);
+        if(ind == arr.size()) {
+            if(target == 0) {
+                ans.push_back(ds);
+            }
             return;
         }
 
-        for(int i = ind; i < arr.size(); i++) {
+        if(arr[ind] <= target) {
 
-            if(i > ind && arr[i] == arr[i - 1])
-                continue;
+            ds.push_back(arr[ind]);
 
-            if(arr[i] > target)
-                break;
-
-            ds.push_back(arr[i]);
-
-            solve(i + 1, target - arr[i],
+            solve(ind + 1,
+                  target - arr[ind],
                   arr, ans, ds);
 
             ds.pop_back();
         }
-    }
 
+        int next = ind + 1;
+
+        while(next < arr.size() &&
+              arr[next] == arr[ind]) {
+            next++;
+        }
+
+        solve(next,
+              target,
+              arr, ans, ds);
+    }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates,
                                          int target) {
