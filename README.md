@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
+| [1332-remove-palindromic-subsequences](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1332-remove-palindromic-subsequences) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
+| [1332-remove-palindromic-subsequences](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
