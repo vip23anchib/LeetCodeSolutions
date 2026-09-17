@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0051-n-queens) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
