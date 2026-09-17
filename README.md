@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3100-water-bottles-ii) |
