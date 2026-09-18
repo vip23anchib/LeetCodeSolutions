@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1332-remove-palindromic-subsequences) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Stack
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
