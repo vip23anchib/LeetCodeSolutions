@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2615-sum-of-distances](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 | [3101-count-alternating-subarrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3101-count-alternating-subarrays) |
 ## Binary Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2615-sum-of-distances](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2615-sum-of-distances](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 ## Linked List
 |  |
 | ------- |
