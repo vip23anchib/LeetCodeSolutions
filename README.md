@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
+| [2833-furthest-point-from-origin](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2833-furthest-point-from-origin) |
 | [3498-reverse-degree-of-a-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
