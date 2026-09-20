@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0788-rotated-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Sliding Window
 |  |
