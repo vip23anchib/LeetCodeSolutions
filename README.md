@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2615-sum-of-distances](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 | [3101-count-alternating-subarrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3101-count-alternating-subarrays) |
+| [3524-find-x-value-of-array-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3100-water-bottles-ii) |
 | [3101-count-alternating-subarrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3101-count-alternating-subarrays) |
+| [3524-find-x-value-of-array-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
+| [3524-find-x-value-of-array-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
 |  |
 | ------- |
