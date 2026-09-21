@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 | [3101-count-alternating-subarrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3101-count-alternating-subarrays) |
 | [3524-find-x-value-of-array-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3524-find-x-value-of-array-i) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1518-water-bottles) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3100-water-bottles-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3100-water-bottles-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
