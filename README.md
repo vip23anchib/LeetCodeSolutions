@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3101-count-alternating-subarrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3101-count-alternating-subarrays) |
 | [3524-find-x-value-of-array-i](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3498-reverse-degree-of-a-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
