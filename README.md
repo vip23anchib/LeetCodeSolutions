@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0056-merge-intervals) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0493-reverse-pairs) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0435-non-overlapping-intervals) |
