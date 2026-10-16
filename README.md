@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1903-largest-odd-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3498-reverse-degree-of-a-string](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2351-first-letter-to-appear-twice](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2351-first-letter-to-appear-twice](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/vip23anchib/LeetCodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Backtracking
 |  |
 | ------- |
